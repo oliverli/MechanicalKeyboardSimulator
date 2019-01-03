@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453547146 source:/home/yicheng/Documents/Programming/MechanicalKeyboardSimulator/main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
